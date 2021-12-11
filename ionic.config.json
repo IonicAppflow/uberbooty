@@ -1,0 +1,8 @@
+{
+  "name": "uberbooty",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "fcb70997"
+}
